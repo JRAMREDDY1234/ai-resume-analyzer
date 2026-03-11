@@ -1,0 +1,4 @@
+anthropic
+PyPDF2
+streamlit
+python-dotenv
